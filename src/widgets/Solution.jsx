@@ -5,7 +5,7 @@ import Image1 from '../assets/pexels-photo-8348457.jpg'
 function Solution() {
     return (
         <div>
-            <SectionHeading title="解决方案" subTitle="解决方案解决方案解决方案解决方案解决方案"></SectionHeading>
+            <SectionHeading title="解决方案" subTitle="解决方案解决方案解决方案解决方案解决方案解决方案解决方案解决方案解决方案解决方案解决方案"></SectionHeading>
             <div className="grid lg:grid-cols-2 mt-20 gap-20">
                 <div>
                     <h3 className="mt-7 text-[32px] font-bold">强有力的工具</h3>
