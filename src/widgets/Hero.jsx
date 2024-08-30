@@ -58,7 +58,7 @@ function Hero() {
                     xmlns="http://www.w3.org/2000/svg"
                     className="mr-3"
                 >
-                    <circle cx="12" cy="12" r="11" stroke="#999999" stroke-width="2" />
+                    <circle cx="12" cy="12" r="11" stroke="#999999" strokeWidth="2" />
                     <path d="M10 17L16 12L10 7V17Z" fill="#999999" />
                 </svg>
                 查看2分钟演示视频
@@ -81,9 +81,9 @@ function Hero() {
                         y2="128"
                         gradientUnits="userSpaceOnUse"
                     >
-                        <stop stop-color="white" />
-                        <stop offset="0.774017" stop-color="#EAEAEA" />
-                        <stop offset="1" stop-color="#DFDFDF" />
+                        <stop stopColor="white" />
+                        <stop offset="0.774017" stopColor="#EAEAEA" />
+                        <stop offset="1" stopColor="#DFDFDF" />
                     </linearGradient>
                 </defs>
             </svg>
